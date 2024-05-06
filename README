@@ -2,8 +2,11 @@
 
 А вот настраивать консольные утилиты заново нет совершенно никакого ни интереса ни удоволствия. Поэтому попробуем вытащить все конфиги в этот репозиторий. Надеюсь, на M3 взлетят настройки, которые были написаны на моём старом интел-маке. Делать будем по гайду с Ютуба [0]
 
-По дороге выяснил, что в Homebrew есть возможность удалить неактуальные транзитивные зависимости командой `brew autoremove` [1]
+По дороге выяснил,
+- в Homebrew есть возможность удалить неактуальные транзитивные зависимости командой `brew autoremove` [1]
+- `brew bundle dump` создаёт Brewfile со всеми установленными программами, которые можно накатить на другой комп в один мах
+- Maybe give Midnight Commander a try? 
 
 [0] https://www.youtube.com/watch?v=y6XCebnB9gs Stow has forever changed the way I manage my dotfiles 
-[1] https://www.youtube.com/watch?v=l3bh70tyhe8 The 1st thing to install on ANY Mac
-
+[1] https://www.youtube.com/watch?v=l3bh70tyhe8 The 1st thing to install on ANY Mac (кстати, красивый акцент)
+[2] https://www.youtube.com/watch?v=2OHrTQVlRMg 7 Essential Command Line Tools (2022)
