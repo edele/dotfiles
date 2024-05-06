@@ -5,8 +5,11 @@
 По дороге выяснил,
 - в Homebrew есть возможность удалить неактуальные транзитивные зависимости командой `brew autoremove` [1]
 - `brew bundle dump` создаёт Brewfile со всеми установленными программами, которые можно накатить на другой комп в один мах
-- Maybe give Midnight Commander a try? 
+- Maybe give Midnight Commander a try?
+
+Немного заблудился, пока искал эту страницу на старом маке и набрёл на гайд гитхаба о дотфайлах [3]
 
 [0] https://www.youtube.com/watch?v=y6XCebnB9gs Stow has forever changed the way I manage my dotfiles 
 [1] https://www.youtube.com/watch?v=l3bh70tyhe8 The 1st thing to install on ANY Mac (кстати, красивый акцент)
 [2] https://www.youtube.com/watch?v=2OHrTQVlRMg 7 Essential Command Line Tools (2022)
+[3] https://dotfiles.github.io/ Github does dofiles
