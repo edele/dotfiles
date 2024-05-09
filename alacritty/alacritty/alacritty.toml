@@ -1,0 +1,15 @@
+import = [
+]
+
+[window]
+dimensions = { columns = 140, lines = 40 }
+startup_mode = "Maximized"
+
+
+[font]
+size=14
+normal = { family = "MesloLGS NF", style = "Regular" }
+bold = { family = "MesloLGS NF", style = "Bold" }
+italic = { family = "MesloLGS NF", style = "Italic" }
+
+
